@@ -61,15 +61,6 @@ January 3, 2025
 📩 Contact
 
 Vexer Technology Ltd
-Website: vexer io
-App: vexer app
-
-If you want, I can also create:
-✔ A GitHub repo folder structure
-✔ A logo concept
-✔ A full company website in HTML/React
-✔ A press-release style launch announcement
-
-Just tell me!
-
-ChatGPT ca
+Website: vexer.io
+App: vexer.app
+Email: support@vexer.io
